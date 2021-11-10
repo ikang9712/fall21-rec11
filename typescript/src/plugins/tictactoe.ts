@@ -74,6 +74,7 @@ function newBoard(cells: PlayerOrEmpty[]): Board {
     }
 }
 
+//i didn't do this so i'll just write comments :)
 
 
 // TODO: Implement the plugin
