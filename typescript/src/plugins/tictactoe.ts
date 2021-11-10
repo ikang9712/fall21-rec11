@@ -82,23 +82,6 @@ function newBoard(cells: PlayerOrEmpty[]): Board {
 // function init (): GamePlugin {
 //     throw new Error("not yet implemented")
 // }
-//Last login: Wed Nov 10 14:39:57 on ttys000
-➜  ~ git:(master) ✗ cd/Users/inhokang/Desktop/2021_FALL/17-214/recitation/17214-21fall-rec10/typescript/src
-zsh: no such file or directory: cd/Users/inhokang/Desktop/2021_FALL/17-214/recitation/17214-21fall-rec10/typescript/src
-➜  ~ git:(master) ✗ cd /Users/inhokang/Desktop/2021_FALL/17-214/recitation/17214-21fall-rec10/typescript/src
-➜  src git:(master) ✗ ls
-core            index.ts        pluginloader.ts plugins         ui.ts
-➜  src git:(master) ✗ cd plugins
-➜  plugins git:(master) ✗ ls
-memory.ts            rockpaperscissors.ts tictactoe.ts
-➜  plugins git:(master) ✗ vim tictactoe.ts
-
-
-
-
-
-
-
 
 
 
